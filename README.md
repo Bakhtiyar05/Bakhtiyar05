@@ -22,5 +22,5 @@ I am Bakhtiyar web developer and UI/UX designer.
 
 - [Behance](https://www.behance.net/bakhtiyar04).
 - [Instagram](https://www.instagram.com/batya_balabayli/).
-[Facebook](https://www.facebook.com/bakhtiyar.balabayli).
-[Linkedin](https://www.linkedin.com/in/bakhtiyar-balabayli-2875a01a2/).
+* [Facebook](https://www.facebook.com/bakhtiyar.balabayli).
++ [Linkedin](https://www.linkedin.com/in/bakhtiyar-balabayli-2875a01a2/).
