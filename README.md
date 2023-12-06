@@ -1,4 +1,4 @@
-![bootstrap](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/c3a687b5-fc2f-4c0b-ba36-84039ad05541)### Hi 👋
+### Hi 👋
 
 I am Bakhtiyar web developer and UI/UX designer.
 
