@@ -20,9 +20,10 @@ I am Bakhtiyar web developer and UI/UX designer.
 
 ## **You can follow me on social networks**
 
-+ ![behance-1](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/07fa105d-7d97-44ef-85c5-3cd372d08556) [Behance](https://www.behance.net/bakhtiyar04).
++ ![behance-1](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b12c80a6-b36f-44d3-ac4f-40a3567f24a4) [Behance](https://www.behance.net/bakhtiyar04).
 + [Instagram](https://www.instagram.com/batya_balabayli/).
 + [Facebook](https://www.facebook.com/bakhtiyar.balabayli).
 + [Linkedin](https://www.linkedin.com/in/bakhtiyar-balabayli-2875a01a2/).
+
 
 
