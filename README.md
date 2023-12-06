@@ -1,4 +1,4 @@
-![Bulma Icon](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/d4f58234-30b6-44e9-846d-cf5470e81b73)### Hi 👋
+### Hi 👋
 
 I am Bakhtiyar web developer and UI/UX designer.
 
@@ -13,4 +13,4 @@ Web development technologies
 ![sass](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/51e9d8e3-4f66-4dd2-beb7-6db106feb220)
 ![javascript](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b218da53-1865-4e5b-86c5-e8a1174431d4)
 ![react](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/0a26a104-b279-4486-826c-e9f71f7093a6)
-![nodejs](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/cc0a88bc-f6e8-43f9-b3f2-147f9fcbfc12)
+![github-mark-white](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/6174336c-e671-492b-975a-c2dee6af0fe4)
