@@ -25,5 +25,14 @@ I am Bakhtiyar web developer and UI/UX designer.
 * ![facebook-3-2](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/08aab11a-fe20-4e8a-9061-dd8cf367877d) [Facebook](https://www.facebook.com/bakhtiyar.balabayli).
 * ![linkedin-icon-3](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/a8dc7283-e1ed-420e-8b1d-e91e32cbca83) [Linkedin](https://www.linkedin.com/in/bakhtiyar-balabayli-2875a01a2/).
 
+## **Hobbies and interests**
 
+* Billiards
+* Oil painting
+* Travel
+* Volleyball
+* Table tennis
+* Chess
+* Watching and playing football
+* Researching Innovations in web programming
 
