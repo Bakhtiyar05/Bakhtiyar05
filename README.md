@@ -20,10 +20,10 @@ I am Bakhtiyar web developer and UI/UX designer.
 
 ## **You can follow me on social networks**
 
-![behance-1](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b12c80a6-b36f-44d3-ac4f-40a3567f24a4) [Behance](https://www.behance.net/bakhtiyar04).
-![instagram-2016-6](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b901fc34-bcb2-40ad-8177-eb2bcc9762d4) [Instagram](https://www.instagram.com/batya_balabayli/).
-![facebook-3-2](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/08aab11a-fe20-4e8a-9061-dd8cf367877d) [Facebook](https://www.facebook.com/bakhtiyar.balabayli).
-![linkedin-icon-3](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/a8dc7283-e1ed-420e-8b1d-e91e32cbca83) [Linkedin](https://www.linkedin.com/in/bakhtiyar-balabayli-2875a01a2/).
+* ![behance-1](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b12c80a6-b36f-44d3-ac4f-40a3567f24a4) [Behance](https://www.behance.net/bakhtiyar04).
+* ![instagram-2016-6](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b901fc34-bcb2-40ad-8177-eb2bcc9762d4) [Instagram](https://www.instagram.com/batya_balabayli/).
+* ![facebook-3-2](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/08aab11a-fe20-4e8a-9061-dd8cf367877d) [Facebook](https://www.facebook.com/bakhtiyar.balabayli).
+* ![linkedin-icon-3](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/a8dc7283-e1ed-420e-8b1d-e91e32cbca83) [Linkedin](https://www.linkedin.com/in/bakhtiyar-balabayli-2875a01a2/).
 
 
 
