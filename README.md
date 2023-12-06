@@ -14,5 +14,3 @@ Web development technologies
 ![javascript](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b218da53-1865-4e5b-86c5-e8a1174431d4)
 ![react](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/0a26a104-b279-4486-826c-e9f71f7093a6)
 ![nodejs](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/cc0a88bc-f6e8-43f9-b3f2-147f9fcbfc12)
-![axios-ar21](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/905807d3-2bc7-429c-8816-77a4760418d4)
-![axios-ar21](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/0d5024f4-d479-4ac9-94b8-e726ff702cb6)
