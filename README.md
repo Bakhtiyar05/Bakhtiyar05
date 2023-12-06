@@ -27,7 +27,8 @@ I am Bakhtiyar web developer and UI/UX designer.
 
 ## **Hobbies and interests**
 
-* 🎱 Billiards
+* ![billiards_1f3b1](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/e7a654bc-33c3-4fc1-a989-a5f019a3a5ba)
+ Billiards
 * Oil painting
 * Travel
 * Volleyball
