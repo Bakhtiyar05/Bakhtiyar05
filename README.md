@@ -13,4 +13,4 @@ Web development technologies
 ![javascript](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b218da53-1865-4e5b-86c5-e8a1174431d4)
 ![react](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/0a26a104-b279-4486-826c-e9f71f7093a6)
 ![nodejs](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/cc0a88bc-f6e8-43f9-b3f2-147f9fcbfc12)
-![images](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/393a7bfd-fb04-47d8-a6c7-400fed7b05ea)
+![material-ui-1](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/d09c65b3-29c2-4f02-8980-fe067f086f5a)
