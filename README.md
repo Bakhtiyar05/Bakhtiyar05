@@ -19,10 +19,10 @@ I am Bakhtiyar web developer and UI/UX designer.
 
 ## **My work experience**
 
-+ TechLab - Front-end developer_
-  _Designing websites with Figma and Adobe Xd. Building the front-end portion of websites the part users see and interact with
++ TechLab - Front-end developer
+  > Designing websites with Figma and Adobe Xd. Building the front-end portion of websites the part users see and interact with
 + LimonDental - https://limondental.az/
-+ Shukh _ - https://shukh.az/
++ Shukh - https://shukh.az/
 + Volta - https://voltamotor.az/ or https://volta.az/
 
 
