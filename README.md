@@ -26,11 +26,11 @@
 
 ## 👨‍🎓 **Education**
 
-- [ ] ITStep Academy
++ ITStep Academy
   > Front end developer
   > 2019 – 2021 Baku, Azerbaijan
 
-- [x] Anadolu University
++ Anadolu University
   > Economy
   > 2013 – 2015
 
