@@ -18,8 +18,12 @@ I am Bakhtiyar web developer and UI/UX designer.
 ![visual-studio-code](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/15168dc9-3613-4eb9-94a7-e91183589740)
 
 ## **My work experience**
-[google](https://voltamotor.az/){:target="_blank"}
-[go]([https://voltamotor.az/)){:target="_blank"}
+
++ TechLab - Front-end developer.
+  Designing websites with Figma and Adobe Xd. Building the front-end portion of websites the part users see and interact with
++ LimonDental - https://limondental.az/
++ Shukh - https://shukh.az/
++ Volta - https://voltamotor.az/ or https://volta.az/
 
 
 ## **You can follow me on social networks**
