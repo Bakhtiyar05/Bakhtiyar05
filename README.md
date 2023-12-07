@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am Bakhtiyar web developer and UI/UX designer.
+***I am Bakhtiyar web developer and UI/UX designer.***
 
 
  ## 🛠️ **Web development technologies**
