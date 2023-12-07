@@ -19,7 +19,8 @@ I am Bakhtiyar web developer and UI/UX designer.
 
 ## **My work experience**
 
-https://voltamotor.az/
+[go]([http://stackoverflow.com](https://voltamotor.az/)){:target="_blank"}
+
 
 ## **You can follow me on social networks**
 
