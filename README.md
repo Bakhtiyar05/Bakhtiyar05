@@ -13,9 +13,14 @@ I am Bakhtiyar web developer and UI/UX designer.
 ![sass](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/51e9d8e3-4f66-4dd2-beb7-6db106feb220)
 ![javascript](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/b218da53-1865-4e5b-86c5-e8a1174431d4)
 ![react](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/0a26a104-b279-4486-826c-e9f71f7093a6)
+
+
+## 🛠️ **Web development technologies**
+
 ![icons8-github](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/ddae1e9e-4853-42a0-82ca-cd781476ef92)
 ![figma](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/1cc72c75-10c7-4dfe-83ff-4c2457f3e00e)
 ![visual-studio-code](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/15168dc9-3613-4eb9-94a7-e91183589740)
+
 
 ## 👨‍🎓 **Education**
 
