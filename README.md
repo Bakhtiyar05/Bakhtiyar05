@@ -24,7 +24,7 @@
 
 
 
-## 👨‍🎓 **Education**✈️
+## 👨‍🎓 **Education**✈
 
 + ITStep Academy
   > Front end developer
@@ -65,7 +65,7 @@
 
 * 🎱 Billiards
 * 🎨 Oil painting
-* 🗺️ Travel
+* ✈️ Travel
 * 🏐 Volleyball
 * 🏓 Table tennis
 * ♛ Chess
