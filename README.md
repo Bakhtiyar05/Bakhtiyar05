@@ -1,6 +1,6 @@
 # Hi 👋
-
-***I am Bakhtiyar web developer and UI/UX designer.***
+> [!NOTE]
+> ***I am Bakhtiyar web developer and UI/UX designer.***
 
 
  ## 🛠️ **Web development technologies**
@@ -70,5 +70,5 @@
 * 🏓 Table tennis
 * ♛ Chess
 * ⚽ Watching and playing football
-* 🖳 Researching Innovations in web programming
+* 💻 Researching Innovations in web programming
 
