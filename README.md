@@ -22,6 +22,8 @@ I am Bakhtiyar web developer and UI/UX designer.
 ![visual-studio-code](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/15168dc9-3613-4eb9-94a7-e91183589740)
 ![adobe-xd](https://github.com/Bakhtiyar05/Bakhtiyar05/assets/70347989/5f417904-eebf-43de-abc1-db3c2baabc57)
 
+
+
 ## 👨‍🎓 **Education**
 
 + ITStep Academy
