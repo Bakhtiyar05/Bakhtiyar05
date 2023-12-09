@@ -24,7 +24,7 @@
 
 
 
-## 👨‍🎓 **Education**✈
+## 👨‍🎓 **Education**
 
 + ITStep Academy
   > Front end developer
