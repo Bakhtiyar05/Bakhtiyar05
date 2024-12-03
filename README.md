@@ -57,6 +57,15 @@
   > Front-end ( React.jsx )
   > Designing and building a website from scratch with Figma and React.js
 
++ Formula 1  September 2024
+  > IT Support Specialist
+
++ COP29  September - November 2024
+  > ICT Support
+
++ Officemart - **** - NOT FINISHED YET
+  > Front-end
+  > Designing and building a website from scratch with Figma.
 
 ## **You can follow me on social networks**
 
