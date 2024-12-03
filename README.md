@@ -42,16 +42,20 @@
 
 + Shukh - https://shukh.az/
   > Front-end
-  > Designing websites with Figma and Adobe Xd.
+  > Designing websites with Figma.
   > Building the front-end portion of websites the part users see and interact with
   
 + LimonDental - https://limondental.az/
   > Front-end ( React.jsx )
-  > Designing and building a website from scratch with Adobe XD and React.js
+  > Designing and building a website from scratch with Figma and React.js
   
 + Volta - https://voltamotor.az/ or https://volta.az/
   > Front-end ( React.jsx )
-  > Designing and building a website from scratch with Adobe XD and React.js
+  > Designing and building a website from scratch with Figma and React.js
+
++ Villaoho - [https://villaoho.az](https://villaoho.com/)
+  > Front-end ( React.jsx )
+  > Designing and building a website from scratch with Figma and React.js
 
 
 ## **You can follow me on social networks**
